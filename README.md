@@ -5,4 +5,4 @@ The template uses the react native Animation template
 
 
 
-Parallax Animation: ![Alt](https://github.com/Deepankar01/react-native-parallax/blob/master/parallax.gif "Parallax Animation")
+![Alt](https://github.com/Deepankar01/react-native-parallax/blob/master/parallax.gif "Parallax Animation")
