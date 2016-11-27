@@ -38,7 +38,7 @@ export default class parallaxView extends Component {
             <View style={styles.scrollViewContent}>
                 {data.map((_, i) =>
                     <View key={i} style={styles.row}>
-                        <Text>{i}</Text>
+                        <Text>Simple Text {i+1}</Text>
                     </View>
                 )}
             </View>
@@ -106,7 +106,7 @@ export default class parallaxView extends Component {
                             {transform: [{scale: titleScale}, {translateY: titleTranslate}]},
                         ]}
                 >
-                    <Text style={styles.title}>Title</Text>
+                    <Text style={styles.title}>An awsome header title</Text>
                 </Animated.View>
             </Animated.View>
         </View>
